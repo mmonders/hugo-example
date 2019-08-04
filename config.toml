@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://triskeleLC.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Triskele Learning Community"
 # Edit your config.toml configuration file
 # and add the Ananke theme.
 theme = "ananke"
