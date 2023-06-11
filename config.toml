@@ -1,4 +1,4 @@
-baseURL = "http://triskeleLC.com/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Triskele Learning Community"
 # Edit your config.toml configuration file
